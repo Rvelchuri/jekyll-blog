@@ -1,0 +1,10 @@
+#site settings
+title: First Jekyll Blog
+author: 
+  name: Rajani Velchuri
+  email: rajani.velchuri@gmail.com
+description: "great site jekyll"
+
+
+#Build settings
+remote_theme: jekyll/minima
